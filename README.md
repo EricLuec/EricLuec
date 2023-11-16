@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericluec&label=Profile%20views&color=0e75b6&style=flat" alt="ericluec" /> </p>
 
-###
+---
 
 - 🌱 I’m currently learning: **Java, React and anything linux related**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://github.com/EricLuec](https://github.com/EricLuec)
 
-###
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
