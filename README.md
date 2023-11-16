@@ -1,8 +1,10 @@
 ![MasterHead](https://www.universityofsantamonica.edu/wp-content/uploads/2014/07/banner-forest-2kX630.jpg)
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericluec&label=Profile%20views&color=0e75b6&style=flat" alt="ericluec" /> </p>
+
+###
 
 - 🌱 I’m currently learning: **Java, React and anything linux related**
 
@@ -11,6 +13,8 @@
 - 📫 How to reach me: **Github DM's**
 
 - 📄 Know about my experiences [https://github.com/EricLuec](https://github.com/EricLuec)
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
