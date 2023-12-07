@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning: **Java, React and anything linux related**
+- 🌱 I’m currently learning: **Java, Rust and anything linux related**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EricLuec](https://github.com/EricLuec)
 
