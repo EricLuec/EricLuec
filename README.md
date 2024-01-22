@@ -29,9 +29,10 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericluec&show_icons=true&locale=en&layout=compact" alt="ericluec" /></p>
+<div align="center">
+<img alt="EricLuec's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ericluec&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericluec&layout=compact&&langs_count=8"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericluec&show_icons=true&locale=en" alt="ericluec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericluec&" alt="ericluec" /></p>
-
+### Profile views counter 👁️‍🗨️
+[![EricLuec's profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ericluec)
