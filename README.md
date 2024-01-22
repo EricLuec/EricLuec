@@ -1,7 +1,7 @@
 ![MasterHead](https://www.universityofsantamonica.edu/wp-content/uploads/2014/07/banner-forest-2kX630.jpg)
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericluec&label=Profile%20views&color=0e75b6&style=flat" alt="ericluec" /> </p>
+<img align="right" alt="Coding" width="380" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 ---
 
