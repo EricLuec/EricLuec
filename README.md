@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I’m currently learning: **JavaScript, TypeScript, Next.js, PostgreSQL,Cybersecurity and anything linux related**
+- 🌱 I’m currently learning: **JavaScript, TypeScript, Next.js, PostgreSQL, Cybersecurity and anything linux related**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EricLuec](https://github.com/EricLuec)
 
