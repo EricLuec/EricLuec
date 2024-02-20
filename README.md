@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EricLuec](https://github.com/EricLuec)
 
-<!--- - 📫 How to reach me: **Github DM's** -->
+- 📫 How to reach me: **coming soon**
 
-- 📄 Know about my experiences [https://github.com/EricLuec](https://github.com/EricLuec) (will be replaced by my personal website, thats coming soon)
+- 📄 Know about my experiences [https://github.com/EricLuec/portfolio](https://github.com/EricLuec/portfolio) (personal website, but not up yet.)
 
 ---
 
