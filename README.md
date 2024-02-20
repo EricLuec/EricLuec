@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EricLuec](https://github.com/EricLuec)
 
-- 📫 How to reach me: **Github DM's**
+<!--- - 📫 How to reach me: **Github DM's** -->
 
 - 📄 Know about my experiences [https://github.com/EricLuec](https://github.com/EricLuec) (will be replaced by my personal website, thats coming soon)
 
