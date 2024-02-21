@@ -22,7 +22,7 @@
 </p>
 
 ---
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 
 ## Programming Languages:
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
