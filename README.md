@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **coming soon**
 
-- 📄 Know about my experiences [https://github.com/EricLuec/portfolio](https://github.com/EricLuec/portfolio) (personal website, but not up yet.)
+- 📄 Know about my experiences [https://github.com/EricLuec/portfolio](https://github.com/EricLuec/portfolio) (portfolio website, but not up yet.)
 
 ---
 
