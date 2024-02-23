@@ -1,6 +1,6 @@
-
-
-![forest_bannersnack-panorama-7a427a90e8d09b0936e2f15f686a6502-5a8351871d42d](https://github.com/EricLuec/EricLuec/assets/140081980/02abeaad-34a0-4a90-9a5c-e0c4f9848453)
+<div style="text-align:center;">
+    <img src="https://github.com/EricLuec/EricLuec/assets/140081980/02abeaad-34a0-4a90-9a5c-e0c4f9848453" alt="Forest" />
+</div>
 
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
