@@ -1,5 +1,5 @@
 
-![landscapes-nature-forest-fog-2560x1440-nature-forests-hd-art-wallpaper-preview](https://github.com/EricLuec/EricLuec/assets/140081980/f6e85b8a-e8fd-477d-9004-33d53dfcea93)
+![mirror2-1000x400](https://github.com/EricLuec/EricLuec/assets/140081980/8984c5be-28ba-4e79-acbe-f8acad2e6c83)
 
 
 
