@@ -1,5 +1,3 @@
-![MasterHead]()
-
 
 ![wallhaven-5gg718](https://github.com/EricLuec/EricLuec/assets/140081980/cd540c39-c911-4966-a07a-59c7ce34007c)
 
