@@ -1,6 +1,5 @@
 
-![wallhaven-5gg718](https://github.com/EricLuec/EricLuec/assets/140081980/cd540c39-c911-4966-a07a-59c7ce34007c)
-
+![trees-975091_1280](https://github.com/EricLuec/EricLuec/assets/140081980/c04e6d80-fa04-4f75-b49e-5b1967288869)
 
 
 <h1 align="center">Hi, I'm Eric</h1>
