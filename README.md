@@ -1,4 +1,5 @@
 
+![011](https://github.com/EricLuec/EricLuec/assets/140081980/e05fe26b-488c-4e16-a45f-733352242b9b)
 
 
 <h1 align="center">Hi, I'm Eric</h1>
