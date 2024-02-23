@@ -1,5 +1,6 @@
 
-![trees-975091_1280](https://github.com/EricLuec/EricLuec/assets/140081980/c04e6d80-fa04-4f75-b49e-5b1967288869)
+![forest-1072828_640](https://github.com/EricLuec/EricLuec/assets/140081980/430323f5-f209-49a6-a288-88bd22e8d280)
+
 
 
 <h1 align="center">Hi, I'm Eric</h1>
