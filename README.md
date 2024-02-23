@@ -1,5 +1,9 @@
 ![MasterHead]()
 
+![695934271-696x476](https://github.com/EricLuec/EricLuec/assets/140081980/9ec611bf-f259-423c-84d1-7b17f2f7b4e0)
+
+
+
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
 
