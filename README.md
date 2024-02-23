@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/EricLuec/EricLuec/assets/140081980/02abeaad-34a0-4a90-9a5c-e0c4f9848453" alt="Forest" />
+<a> <img align="center" src="https://github.com/EricLuec/EricLuec/assets/140081980/02abeaad-34a0-4a90-9a5c-e0c4f9848453" alt="Forest" /> <a/>
 
 
 <h1 align="center">Hi, I'm Eric</h1>
