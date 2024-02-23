@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<center>
     <img src="https://github.com/EricLuec/EricLuec/assets/140081980/02abeaad-34a0-4a90-9a5c-e0c4f9848453" alt="Forest" />
-</div>
+</center>
 
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
