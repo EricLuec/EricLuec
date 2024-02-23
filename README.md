@@ -1,5 +1,6 @@
 
-![011](https://github.com/EricLuec/EricLuec/assets/140081980/e05fe26b-488c-4e16-a45f-733352242b9b)
+![landscapes-nature-forest-fog-2560x1440-nature-forests-hd-art-wallpaper-preview](https://github.com/EricLuec/EricLuec/assets/140081980/f6e85b8a-e8fd-477d-9004-33d53dfcea93)
+
 
 
 <h1 align="center">Hi, I'm Eric</h1>
