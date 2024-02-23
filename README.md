@@ -1,5 +1,5 @@
 
-![forest-1072828_640](https://github.com/EricLuec/EricLuec/assets/140081980/430323f5-f209-49a6-a288-88bd22e8d280)
+![forest-1072828_1280](https://github.com/EricLuec/EricLuec/assets/140081980/ca5f2289-8100-4d34-9778-eda74b567e0f)
 
 
 
