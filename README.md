@@ -1,4 +1,4 @@
-![MasterHead](https://www.universityofsantamonica.edu/wp-content/uploads/2014/07/banner-forest-2kX630.jpg)
+![MasterHead]()
 
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
