@@ -1,7 +1,7 @@
 
 ![mirror2-1000x400](https://github.com/EricLuec/EricLuec/assets/140081980/8984c5be-28ba-4e79-acbe-f8acad2e6c83)
 
-lel
+
 
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
