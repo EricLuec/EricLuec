@@ -10,14 +10,14 @@
 </div>
 
 
-<h2 align="center">Frontend Development:</h2>
+<h2>Frontend Development:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=10" />
   </a>
 </p>
 
-<h2 align="center">Backend Development:</h2>
+<h2>Backend Development:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=docker,nodejs,java,postgres,mysql,spring&perline=10" />
@@ -25,20 +25,20 @@
 </p>
 
 
-<h2 align="center">Working Environment:</h2>
+<h2>Working Environment:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arch,obsidian,vscodium,bash,idea,git&perline=10" />
   </a>
 </p>
 
-<h2 align="center">Miscellaneous:</h2>
+<h2>Miscellaneous:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=figma,md&perline=10" />
   </a>
 </p>
-<h2 align="center">My personal website:</h2>
+<h2>My personal website:</h2>
 <p align="center">
   <a href="https://github.com/ericluec">dead link yet..</a>
 </p>
