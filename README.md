@@ -1,12 +1,14 @@
 
 ![mirror2-1000x400](https://github.com/EricLuec/EricLuec/assets/140081980/8984c5be-28ba-4e79-acbe-f8acad2e6c83)
 
+<h1 align="center">Hi, I'm Eric 🇨🇭</h1>
 
+<div align="center">
+<p>📖 I'm learning Next.js and Java at the moment</p>
+<p>💻 Currently becoming a fullstack-developer</p>
+<p>💡 Extending my knowledge in Cyber Security</p>
+</div>
 
-<h1 align="center">Hi, I'm Eric</h1>
-<h3 align="center">Currently on my way to become a fullstack developer with Cybersecurity-Extension from Zurich, Switzerland 🇨🇭</h3>
-
---- 
 
 <h2 align="center">Frontend Development:</h2>
 <p align="center">
@@ -18,7 +20,7 @@
 <h2 align="center">Backend Development:</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,node,java,postgres,mysql,spring&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,nodejs,java,postgres,mysql,spring&perline=10" />
   </a>
 </p>
 
@@ -36,8 +38,11 @@
     <img src="https://skillicons.dev/icons?i=figma,md&perline=10" />
   </a>
 </p>
+<h2 align="center">My personal website:</h2>
+<p align="center">
+  <a href="https://github.com/ericluec">dead link yet..</a>
+</p>
 
-<p align="center" border="2px" border-radius="8px"> My personal website to learn more about me: [dead link yet..](https://github.com/EricLuec)</p>
 ---
 
 <div align="center">
