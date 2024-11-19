@@ -28,7 +28,7 @@
 <h2 align="center">Working Environment:</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=arch,obsidian,git,vscodium,bash,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=arch,obsidian,vscodium,bash,idea,git&perline=10" />
   </a>
 </p>
 
