@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Eric 🇨🇭</h1>
 
-<div align="center">
+<div>
 <p>📖 I'm learning Next.js and Java at the moment</p>
 <p>💻 Currently becoming a fullstack-developer</p>
 <p>💡 Extending my knowledge in Cyber Security</p>
