@@ -4,19 +4,18 @@
 
 
 <h1 align="center">Hi, I'm Eric</h1>
-<h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
+<h3 align="center">Currently on my way to become a fullstack developer with Cybersecurity-Extension from Zurich, Switzerland 🇨🇭</h3>
 
+--- 
 
-<h2 align="center">Languages and Tools:</h2>
-
-## Frontend Development:
+<h2 align="center">Frontend Development:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=10" />
   </a>
 </p>
 
-## Backend Development:
+<h2 align="center">Backend Development:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=docker,node,java,postgres,mysql,spring&perline=10" />
@@ -24,21 +23,21 @@
 </p>
 
 
-## Working Environment:
+<h2 align="center">Working Environment:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arch,obsidian,git,vscodium,bash,idea&perline=10" />
   </a>
 </p>
 
-## Miscellaneous:
+<h2 align="center">Miscellaneous:</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=figma,md&perline=10" />
   </a>
 </p>
 
-<h3> My personal website to learn more about me: [https://github.com/EricLuec](dead link yet..)</h3>
+<p align="center" border="2px" border-radius="8px"> My personal website to learn more about me: [dead link yet..](https://github.com/EricLuec)</p>
 ---
 
 <div align="center">
