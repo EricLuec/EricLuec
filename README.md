@@ -6,11 +6,6 @@
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">Currently on my way to become a fullstack developer from Zurich, Switzerland 🇨🇭</h3>
 
----
-
-- 🌱 I’m currently learning: **Next.js, PostgreSQL, about Cybersecurity and anything Linux related.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EricLuec](https://github.com/EricLuec)
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -43,7 +38,7 @@
   </a>
 </p>
 
-
+<h3> My personal website to learn more about me: [https://github.com/EricLuec](dead link yet..)</h3>
 ---
 
 <div align="center">
@@ -54,5 +49,3 @@
 </div>
 
 ---
-
-[![EricLuec's profile views](https://u8views.com/api/v1/github/profiles/140081980/views/day-week-month-total-count.svg)](https://u8views.com/github/EricLuec) 
