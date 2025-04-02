@@ -20,7 +20,7 @@
 <h2 align="center">Backend Development:</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,nodejs,java,postgres,mysql,spring&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,nodejs,java,postgres,mysql,spring,go&perline=10" />
   </a>
 </p>
 
