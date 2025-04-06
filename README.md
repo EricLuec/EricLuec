@@ -4,7 +4,7 @@
 
 
 <div>
-  <p>📖 I'm learning Next.js and Java at the moment</p>
+  <p>📖 I'm learning Next.js, Go and Java at the moment</p>
   <p>💻 Currently becoming a fullstack-developer</p>
   <p>💡 Extending my knowledge in Cyber Security</p>
 </div>
@@ -20,7 +20,7 @@
 <h2 align="center">Backend Development:</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,nodejs,java,postgres,mysql,spring,go&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,nodejs,java,postgres,mysql,spring,go,mongodb&perline=10" />
   </a>
 </p>
 
