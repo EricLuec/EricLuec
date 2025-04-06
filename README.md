@@ -35,7 +35,7 @@
 <h2 align="center">Miscellaneous:</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=figma,md&perline=10" />
+    <img src="https://skillicons.dev/icons?i=figma,md,raspberrypi&perline=10" />
   </a>
 </p>
 <h2 align="center">My personal website:</h2>
