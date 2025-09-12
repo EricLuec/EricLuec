@@ -40,7 +40,7 @@
 </p>
 <h2 align="center">My personal website:</h2>
 <p align="center">
-  <a href="https://github.com/ericluec">dead link yet..</a>
+  <a href="https://new-portfolio-six-alpha.vercel.app/">Portfolio Website</a>
 </p>
 
 ---
