@@ -40,7 +40,7 @@
 </p>
 <h2 align="center">My personal website:</h2>
 <p align="center">
-  <a href="ericluec.ch">Portfolio Website</a>
+  <a href="https://ericluec.ch">Portfolio Website</a>
 </p>
 
 ---
