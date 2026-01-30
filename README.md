@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-<img alt="EricLuec's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ericluec&show_icons=true&theme=transparent"/>
+[![EricLuec's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericluec)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
