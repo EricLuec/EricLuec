@@ -46,17 +46,10 @@
 ---
 
 <div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ericluec&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ericluec&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ericluec&show_icons=true" />
-</picture>
+<p align="center">
+  <img alt="Overview" src="https://github.com/ericluec/github-stats/blob/master/generated/overview.svg" />
+  <img alt="Langs" src="https://github.com/ericluec/github-stats/blob/master/generated/languages.svg" />
+</p>
 
 </div>
 
