@@ -47,8 +47,7 @@
 
 <div align="center">
 <p align="center">
-  <img alt="Overview" src="https://github.com/ericluec/github-stats/blob/master/generated/overview.svg" />
-  <img alt="Langs" src="https://github.com/ericluec/github-stats/blob/master/generated/languages.svg" />
+  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=EricLuec&show_icons=true&theme=dark" />
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricLuec&layout=compact&theme=dark" />
 </p>
-
 </div>
