@@ -47,7 +47,6 @@
 
 <div align="center">
 <p align="center">
-  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=EricLuec&show_icons=true&theme=dark" />
-  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricLuec&layout=compact&theme=dark" />
+  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=EricLuec&show_icons=true&theme=dark&count_private=true" />
 </p>
 </div>
