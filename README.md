@@ -48,5 +48,6 @@
 <div align="center">
 <p align="center">
   <img alt="Overview" src="generated/overview.svg" />
+  <img alt="Languages" src="generated/languages.svg" />
 </p>
 </div>
