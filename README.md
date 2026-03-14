@@ -47,6 +47,6 @@
 
 <div align="center">
 <p align="center">
-  <img alt="Overview" src="https://raw.githubusercontent.com/EricLuec/EricLuec/main/generated/overview.svg" />
+  <img alt="Overview" src="generated/overview.svg" />
 </p>
 </div>
