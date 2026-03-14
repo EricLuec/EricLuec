@@ -47,6 +47,6 @@
 
 <div align="center">
 <p align="center">
-  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=EricLuec&show_icons=true&theme=dark&count_private=true" />
+  <img alt="Overview" src="https://raw.githubusercontent.com/EricLuec/EricLuec/main/generated/overview.svg" />
 </p>
 </div>
