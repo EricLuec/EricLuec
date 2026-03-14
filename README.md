@@ -38,9 +38,11 @@
     <img src="https://skillicons.dev/icons?i=figma,md,raspberrypi&perline=10" />
   </a>
 </p>
-<h2 align="center">My personal website:</h2>
+
 <p align="center">
-  <a href="https://ericluec.ch">Portfolio Website</a>
+  <a href="https://ericluec.ch">
+    <img src="https://img.shields.io/badge/Portfolio-ericluec.ch-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
