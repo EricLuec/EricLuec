@@ -39,9 +39,10 @@
   </a>
 </p>
 
+<h2 align="center">My personal website:</h2>
 <p align="center">
   <a href="https://ericluec.ch">
-    <img src="https://img.shields.io/badge/Portfolio-ericluec.ch-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ericluec.ch-58a6ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
