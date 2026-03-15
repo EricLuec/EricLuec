@@ -45,3 +45,8 @@
     <img src="https://img.shields.io/badge/Portfolio-ericluec.ch-58a6ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<h2 align="center">GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricLuec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
