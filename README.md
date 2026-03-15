@@ -45,12 +45,3 @@
     <img src="https://img.shields.io/badge/Portfolio-ericluec.ch-58a6ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-<div align="center">
-<p align="center">
-  <img alt="Overview" src="generated/overview.svg" />
-  <img alt="Languages" src="generated/languages.svg" />
-</p>
-</div>
